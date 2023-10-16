@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HyperDanirio
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJs, UnityEngine.
-- 💞️ I’m looking to collaborate on random projects about WebDevelopment
+- 👀 I’m interested in Software Development, Animation and UI/Ux Design
+- 🌱 I know ReactJS, Flutter, Unity, Figma.
+- 💞️ I’m looking to collaborate on random projects as a Software Developer
 - 📫 How to reach me Telegram:@hyperDanirio  Discord:Danirio#2267
 
 <!---
